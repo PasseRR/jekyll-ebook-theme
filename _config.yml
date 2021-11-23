@@ -16,3 +16,5 @@ redcarpet:
 gems:
   - redcarpet
   - plantuml
+
+icon: https://cdn.jsdelivr.net/gh/PasseRR/jeklly-ebook-theme/asserts/ico/favicon.ico
