@@ -1,0 +1,18 @@
+# Site settings
+author: PasseRR
+github: https://github.com/PasseRR
+email: xie__hai@sina.com
+
+# Build settings
+highlighter: rouge
+permalink: pretty
+
+redcarpet:
+  extensions:
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - strikethrough
+gems:
+  - redcarpet
+  - plantuml
