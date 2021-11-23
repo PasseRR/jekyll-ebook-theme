@@ -14,7 +14,7 @@
 </body>
 <script>
     var summary = [];
-    var levels = {{site.levels}};
+    var levels = parseInt("{{ site.levels }}") || 3;
     {% for item in site.data.summary %}
     summary.push({{ item | replace: "=>", ":" }});
     {% endfor %}

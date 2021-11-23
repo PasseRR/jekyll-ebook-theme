@@ -17,7 +17,5 @@ gems:
   - redcarpet
   - plantuml
 
-# 书目录层数
-levels: 3
 # icon位置
 icon: https://cdn.jsdelivr.net/gh/PasseRR/jekyll-ebook-theme/asserts/ico/favicon.ico
